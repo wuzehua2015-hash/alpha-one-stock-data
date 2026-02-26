@@ -1,0 +1,5582 @@
+[
+  {
+    "symbol": "000001",
+    "name": "Stock_000001",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000002",
+    "name": "Stock_000002",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000063",
+    "name": "Stock_000063",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000100",
+    "name": "Stock_000100",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000333",
+    "name": "Stock_000333",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000538",
+    "name": "Stock_000538",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000568",
+    "name": "Stock_000568",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000651",
+    "name": "Stock_000651",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000725",
+    "name": "Stock_000725",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000768",
+    "name": "Stock_000768",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000858",
+    "name": "Stock_000858",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000895",
+    "name": "Stock_000895",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002001",
+    "name": "Stock_002001",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002007",
+    "name": "Stock_002007",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002024",
+    "name": "Stock_002024",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002027",
+    "name": "Stock_002027",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002142",
+    "name": "Stock_002142",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002230",
+    "name": "Stock_002230",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002236",
+    "name": "Stock_002236",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002271",
+    "name": "Stock_002271",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002304",
+    "name": "Stock_002304",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002352",
+    "name": "Stock_002352",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002415",
+    "name": "Stock_002415",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002460",
+    "name": "Stock_002460",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002475",
+    "name": "Stock_002475",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002594",
+    "name": "Stock_002594",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002714",
+    "name": "Stock_002714",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002812",
+    "name": "Stock_002812",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300003",
+    "name": "Stock_300003",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300014",
+    "name": "Stock_300014",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300015",
+    "name": "Stock_300015",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300033",
+    "name": "Stock_300033",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300059",
+    "name": "Stock_300059",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300122",
+    "name": "Stock_300122",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300124",
+    "name": "Stock_300124",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300274",
+    "name": "Stock_300274",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300408",
+    "name": "Stock_300408",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300413",
+    "name": "Stock_300413",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300433",
+    "name": "Stock_300433",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300498",
+    "name": "Stock_300498",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300750",
+    "name": "Stock_300750",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600000",
+    "name": "Stock_600000",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600009",
+    "name": "Stock_600009",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600016",
+    "name": "Stock_600016",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600028",
+    "name": "Stock_600028",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600029",
+    "name": "Stock_600029",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600030",
+    "name": "Stock_600030",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600031",
+    "name": "Stock_600031",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600036",
+    "name": "Stock_600036",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600048",
+    "name": "Stock_600048",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600050",
+    "name": "Stock_600050",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600104",
+    "name": "Stock_600104",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600276",
+    "name": "Stock_600276",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600309",
+    "name": "Stock_600309",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600340",
+    "name": "Stock_600340",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600406",
+    "name": "Stock_600406",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600436",
+    "name": "Stock_600436",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600438",
+    "name": "Stock_600438",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600519",
+    "name": "Stock_600519",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600585",
+    "name": "Stock_600585",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600588",
+    "name": "Stock_600588",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600690",
+    "name": "Stock_600690",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600703",
+    "name": "Stock_600703",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600745",
+    "name": "Stock_600745",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600809",
+    "name": "Stock_600809",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600837",
+    "name": "Stock_600837",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600887",
+    "name": "Stock_600887",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600893",
+    "name": "Stock_600893",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "600900",
+    "name": "Stock_600900",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601012",
+    "name": "Stock_601012",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601066",
+    "name": "Stock_601066",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601088",
+    "name": "Stock_601088",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601100",
+    "name": "Stock_601100",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601138",
+    "name": "Stock_601138",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601166",
+    "name": "Stock_601166",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601169",
+    "name": "Stock_601169",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601186",
+    "name": "Stock_601186",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601211",
+    "name": "Stock_601211",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601225",
+    "name": "Stock_601225",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601229",
+    "name": "Stock_601229",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601288",
+    "name": "Stock_601288",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601318",
+    "name": "Stock_601318",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601319",
+    "name": "Stock_601319",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601328",
+    "name": "Stock_601328",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601336",
+    "name": "Stock_601336",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601398",
+    "name": "Stock_601398",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601601",
+    "name": "Stock_601601",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601628",
+    "name": "Stock_601628",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601668",
+    "name": "Stock_601668",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601688",
+    "name": "Stock_601688",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601766",
+    "name": "Stock_601766",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601788",
+    "name": "Stock_601788",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601800",
+    "name": "Stock_601800",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601818",
+    "name": "Stock_601818",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601857",
+    "name": "Stock_601857",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601888",
+    "name": "Stock_601888",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601899",
+    "name": "Stock_601899",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601901",
+    "name": "Stock_601901",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601933",
+    "name": "Stock_601933",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601939",
+    "name": "Stock_601939",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601985",
+    "name": "Stock_601985",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601988",
+    "name": "Stock_601988",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601989",
+    "name": "Stock_601989",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "601998",
+    "name": "Stock_601998",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603000",
+    "name": "Stock_603000",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603019",
+    "name": "Stock_603019",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603259",
+    "name": "Stock_603259",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603288",
+    "name": "Stock_603288",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603369",
+    "name": "Stock_603369",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603501",
+    "name": "Stock_603501",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603658",
+    "name": "Stock_603658",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603799",
+    "name": "Stock_603799",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603833",
+    "name": "Stock_603833",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603899",
+    "name": "Stock_603899",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603986",
+    "name": "Stock_603986",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "603993",
+    "name": "Stock_603993",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000049",
+    "name": "Stock_000049",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000060",
+    "name": "Stock_000060",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000061",
+    "name": "Stock_000061",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000062",
+    "name": "Stock_000062",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000066",
+    "name": "Stock_000066",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000069",
+    "name": "Stock_000069",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000078",
+    "name": "Stock_000078",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000089",
+    "name": "Stock_000089",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000090",
+    "name": "Stock_000090",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000099",
+    "name": "Stock_000099",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000157",
+    "name": "Stock_000157",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000166",
+    "name": "Stock_000166",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000301",
+    "name": "Stock_000301",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000338",
+    "name": "Stock_000338",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000400",
+    "name": "Stock_000400",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000401",
+    "name": "Stock_000401",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000402",
+    "name": "Stock_000402",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000403",
+    "name": "Stock_000403",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000408",
+    "name": "Stock_000408",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000413",
+    "name": "Stock_000413",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000415",
+    "name": "Stock_000415",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000423",
+    "name": "Stock_000423",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000425",
+    "name": "Stock_000425",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000426",
+    "name": "Stock_000426",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000429",
+    "name": "Stock_000429",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000488",
+    "name": "Stock_000488",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000538",
+    "name": "Stock_000538",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000539",
+    "name": "Stock_000539",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000540",
+    "name": "Stock_000540",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000547",
+    "name": "Stock_000547",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000550",
+    "name": "Stock_000550",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000559",
+    "name": "Stock_000559",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000560",
+    "name": "Stock_000560",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000568",
+    "name": "Stock_000568",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000581",
+    "name": "Stock_000581",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000582",
+    "name": "Stock_000582",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000589",
+    "name": "Stock_000589",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000590",
+    "name": "Stock_000590",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000591",
+    "name": "Stock_000591",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000596",
+    "name": "Stock_000596",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000598",
+    "name": "Stock_000598",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000600",
+    "name": "Stock_000600",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000601",
+    "name": "Stock_000601",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000603",
+    "name": "Stock_000603",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000605",
+    "name": "Stock_000605",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000607",
+    "name": "Stock_000607",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000608",
+    "name": "Stock_000608",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000612",
+    "name": "Stock_000612",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000615",
+    "name": "Stock_000615",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000617",
+    "name": "Stock_000617",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000619",
+    "name": "Stock_000619",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000620",
+    "name": "Stock_000620",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000623",
+    "name": "Stock_000623",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000625",
+    "name": "Stock_000625",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000626",
+    "name": "Stock_000626",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000628",
+    "name": "Stock_000628",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000629",
+    "name": "Stock_000629",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000630",
+    "name": "Stock_000630",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000631",
+    "name": "Stock_000631",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000633",
+    "name": "Stock_000633",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000635",
+    "name": "Stock_000635",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000636",
+    "name": "Stock_000636",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000637",
+    "name": "Stock_000637",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000639",
+    "name": "Stock_000639",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000650",
+    "name": "Stock_000650",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000651",
+    "name": "Stock_000651",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000652",
+    "name": "Stock_000652",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000655",
+    "name": "Stock_000655",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000656",
+    "name": "Stock_000656",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000657",
+    "name": "Stock_000657",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000659",
+    "name": "Stock_000659",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000661",
+    "name": "Stock_000661",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000663",
+    "name": "Stock_000663",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000665",
+    "name": "Stock_000665",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000666",
+    "name": "Stock_000666",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000667",
+    "name": "Stock_000667",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000668",
+    "name": "Stock_000668",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000669",
+    "name": "Stock_000669",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000670",
+    "name": "Stock_000670",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000672",
+    "name": "Stock_000672",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000673",
+    "name": "Stock_000673",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000676",
+    "name": "Stock_000676",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000677",
+    "name": "Stock_000677",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000678",
+    "name": "Stock_000678",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000679",
+    "name": "Stock_000679",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000680",
+    "name": "Stock_000680",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000681",
+    "name": "Stock_000681",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000682",
+    "name": "Stock_000682",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000683",
+    "name": "Stock_000683",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000685",
+    "name": "Stock_000685",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000686",
+    "name": "Stock_000686",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000687",
+    "name": "Stock_000687",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000688",
+    "name": "Stock_000688",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000690",
+    "name": "Stock_000690",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000691",
+    "name": "Stock_000691",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000692",
+    "name": "Stock_000692",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000695",
+    "name": "Stock_000695",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000697",
+    "name": "Stock_000697",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000698",
+    "name": "Stock_000698",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000700",
+    "name": "Stock_000700",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000701",
+    "name": "Stock_000701",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000702",
+    "name": "Stock_000702",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000703",
+    "name": "Stock_000703",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000705",
+    "name": "Stock_000705",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000706",
+    "name": "Stock_000706",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000707",
+    "name": "Stock_000707",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000708",
+    "name": "Stock_000708",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000709",
+    "name": "Stock_000709",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000710",
+    "name": "Stock_000710",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000711",
+    "name": "Stock_000711",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000712",
+    "name": "Stock_000712",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000713",
+    "name": "Stock_000713",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000715",
+    "name": "Stock_000715",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000716",
+    "name": "Stock_000716",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000717",
+    "name": "Stock_000717",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000718",
+    "name": "Stock_000718",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000719",
+    "name": "Stock_000719",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000720",
+    "name": "Stock_000720",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000721",
+    "name": "Stock_000721",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000722",
+    "name": "Stock_000722",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000723",
+    "name": "Stock_000723",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000725",
+    "name": "Stock_000725",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000726",
+    "name": "Stock_000726",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000727",
+    "name": "Stock_000727",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000728",
+    "name": "Stock_000728",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000729",
+    "name": "Stock_000729",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000731",
+    "name": "Stock_000731",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000732",
+    "name": "Stock_000732",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000733",
+    "name": "Stock_000733",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000735",
+    "name": "Stock_000735",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000736",
+    "name": "Stock_000736",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000737",
+    "name": "Stock_000737",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000738",
+    "name": "Stock_000738",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000739",
+    "name": "Stock_000739",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000750",
+    "name": "Stock_000750",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000751",
+    "name": "Stock_000751",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000752",
+    "name": "Stock_000752",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000753",
+    "name": "Stock_000753",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000755",
+    "name": "Stock_000755",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000756",
+    "name": "Stock_000756",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000757",
+    "name": "Stock_000757",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000758",
+    "name": "Stock_000758",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000759",
+    "name": "Stock_000759",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000760",
+    "name": "Stock_000760",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000761",
+    "name": "Stock_000761",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000762",
+    "name": "Stock_000762",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000766",
+    "name": "Stock_000766",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000767",
+    "name": "Stock_000767",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000768",
+    "name": "Stock_000768",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000776",
+    "name": "Stock_000776",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000777",
+    "name": "Stock_000777",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000778",
+    "name": "Stock_000778",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000779",
+    "name": "Stock_000779",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000780",
+    "name": "Stock_000780",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000782",
+    "name": "Stock_000782",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000783",
+    "name": "Stock_000783",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000785",
+    "name": "Stock_000785",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000786",
+    "name": "Stock_000786",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000788",
+    "name": "Stock_000788",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000789",
+    "name": "Stock_000789",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000790",
+    "name": "Stock_000790",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000791",
+    "name": "Stock_000791",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000792",
+    "name": "Stock_000792",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000793",
+    "name": "Stock_000793",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000795",
+    "name": "Stock_000795",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000796",
+    "name": "Stock_000796",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000797",
+    "name": "Stock_000797",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000798",
+    "name": "Stock_000798",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000799",
+    "name": "Stock_000799",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000800",
+    "name": "Stock_000800",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000801",
+    "name": "Stock_000801",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000802",
+    "name": "Stock_000802",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000803",
+    "name": "Stock_000803",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000806",
+    "name": "Stock_000806",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000807",
+    "name": "Stock_000807",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000809",
+    "name": "Stock_000809",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000810",
+    "name": "Stock_000810",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000811",
+    "name": "Stock_000811",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000812",
+    "name": "Stock_000812",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000813",
+    "name": "Stock_000813",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000815",
+    "name": "Stock_000815",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000816",
+    "name": "Stock_000816",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000818",
+    "name": "Stock_000818",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000819",
+    "name": "Stock_000819",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000820",
+    "name": "Stock_000820",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000821",
+    "name": "Stock_000821",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000822",
+    "name": "Stock_000822",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000823",
+    "name": "Stock_000823",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000825",
+    "name": "Stock_000825",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000826",
+    "name": "Stock_000826",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000828",
+    "name": "Stock_000828",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000829",
+    "name": "Stock_000829",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000830",
+    "name": "Stock_000830",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000831",
+    "name": "Stock_000831",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000832",
+    "name": "Stock_000832",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000833",
+    "name": "Stock_000833",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000835",
+    "name": "Stock_000835",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000836",
+    "name": "Stock_000836",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000837",
+    "name": "Stock_000837",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000838",
+    "name": "Stock_000838",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000839",
+    "name": "Stock_000839",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000848",
+    "name": "Stock_000848",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000850",
+    "name": "Stock_000850",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000851",
+    "name": "Stock_000851",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000852",
+    "name": "Stock_000852",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000856",
+    "name": "Stock_000856",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000858",
+    "name": "Stock_000858",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000859",
+    "name": "Stock_000859",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000860",
+    "name": "Stock_000860",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000861",
+    "name": "Stock_000861",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000862",
+    "name": "Stock_000862",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000863",
+    "name": "Stock_000863",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000865",
+    "name": "Stock_000865",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000866",
+    "name": "Stock_000866",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000868",
+    "name": "Stock_000868",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000869",
+    "name": "Stock_000869",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000875",
+    "name": "Stock_000875",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000876",
+    "name": "Stock_000876",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000877",
+    "name": "Stock_000877",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000878",
+    "name": "Stock_000878",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000880",
+    "name": "Stock_000880",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000881",
+    "name": "Stock_000881",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000882",
+    "name": "Stock_000882",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000883",
+    "name": "Stock_000883",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000885",
+    "name": "Stock_000885",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000886",
+    "name": "Stock_000886",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000887",
+    "name": "Stock_000887",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000888",
+    "name": "Stock_000888",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000889",
+    "name": "Stock_000889",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000890",
+    "name": "Stock_000890",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000892",
+    "name": "Stock_000892",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000893",
+    "name": "Stock_000893",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000895",
+    "name": "Stock_000895",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000897",
+    "name": "Stock_000897",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000898",
+    "name": "Stock_000898",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000899",
+    "name": "Stock_000899",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000900",
+    "name": "Stock_000900",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000901",
+    "name": "Stock_000901",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000902",
+    "name": "Stock_000902",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000903",
+    "name": "Stock_000903",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000905",
+    "name": "Stock_000905",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000906",
+    "name": "Stock_000906",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000908",
+    "name": "Stock_000908",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000909",
+    "name": "Stock_000909",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000910",
+    "name": "Stock_000910",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000911",
+    "name": "Stock_000911",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000912",
+    "name": "Stock_000912",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000913",
+    "name": "Stock_000913",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000915",
+    "name": "Stock_000915",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000917",
+    "name": "Stock_000917",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000918",
+    "name": "Stock_000918",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000919",
+    "name": "Stock_000919",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000920",
+    "name": "Stock_000920",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000921",
+    "name": "Stock_000921",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000922",
+    "name": "Stock_000922",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000923",
+    "name": "Stock_000923",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000925",
+    "name": "Stock_000925",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000926",
+    "name": "Stock_000926",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000927",
+    "name": "Stock_000927",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000928",
+    "name": "Stock_000928",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000929",
+    "name": "Stock_000929",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000930",
+    "name": "Stock_000930",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000931",
+    "name": "Stock_000931",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000932",
+    "name": "Stock_000932",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000933",
+    "name": "Stock_000933",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000935",
+    "name": "Stock_000935",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000936",
+    "name": "Stock_000936",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000937",
+    "name": "Stock_000937",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000938",
+    "name": "Stock_000938",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000939",
+    "name": "Stock_000939",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000948",
+    "name": "Stock_000948",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000949",
+    "name": "Stock_000949",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000950",
+    "name": "Stock_000950",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000951",
+    "name": "Stock_000951",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000952",
+    "name": "Stock_000952",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000953",
+    "name": "Stock_000953",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000955",
+    "name": "Stock_000955",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000957",
+    "name": "Stock_000957",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000958",
+    "name": "Stock_000958",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000959",
+    "name": "Stock_000959",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000960",
+    "name": "Stock_000960",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000961",
+    "name": "Stock_000961",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000962",
+    "name": "Stock_000962",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000963",
+    "name": "Stock_000963",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000965",
+    "name": "Stock_000965",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000966",
+    "name": "Stock_000966",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000967",
+    "name": "Stock_000967",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000968",
+    "name": "Stock_000968",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000969",
+    "name": "Stock_000969",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000970",
+    "name": "Stock_000970",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000971",
+    "name": "Stock_000971",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000972",
+    "name": "Stock_000972",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000973",
+    "name": "Stock_000973",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000975",
+    "name": "Stock_000975",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000976",
+    "name": "Stock_000976",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000977",
+    "name": "Stock_000977",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000978",
+    "name": "Stock_000978",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000979",
+    "name": "Stock_000979",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000980",
+    "name": "Stock_000980",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000981",
+    "name": "Stock_000981",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000982",
+    "name": "Stock_000982",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000983",
+    "name": "Stock_000983",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000985",
+    "name": "Stock_000985",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000987",
+    "name": "Stock_000987",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000988",
+    "name": "Stock_000988",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000989",
+    "name": "Stock_000989",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000990",
+    "name": "Stock_000990",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000993",
+    "name": "Stock_000993",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000995",
+    "name": "Stock_000995",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000996",
+    "name": "Stock_000996",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000997",
+    "name": "Stock_000997",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000998",
+    "name": "Stock_000998",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "000999",
+    "name": "Stock_000999",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001201",
+    "name": "Stock_001201",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001202",
+    "name": "Stock_001202",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001203",
+    "name": "Stock_001203",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001205",
+    "name": "Stock_001205",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001206",
+    "name": "Stock_001206",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001207",
+    "name": "Stock_001207",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001208",
+    "name": "Stock_001208",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001209",
+    "name": "Stock_001209",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001210",
+    "name": "Stock_001210",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001211",
+    "name": "Stock_001211",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001212",
+    "name": "Stock_001212",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001213",
+    "name": "Stock_001213",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001215",
+    "name": "Stock_001215",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001216",
+    "name": "Stock_001216",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001217",
+    "name": "Stock_001217",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001218",
+    "name": "Stock_001218",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001219",
+    "name": "Stock_001219",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001222",
+    "name": "Stock_001222",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001223",
+    "name": "Stock_001223",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001225",
+    "name": "Stock_001225",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001226",
+    "name": "Stock_001226",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001227",
+    "name": "Stock_001227",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001228",
+    "name": "Stock_001228",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001229",
+    "name": "Stock_001229",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001230",
+    "name": "Stock_001230",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001231",
+    "name": "Stock_001231",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001232",
+    "name": "Stock_001232",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001233",
+    "name": "Stock_001233",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001234",
+    "name": "Stock_001234",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001235",
+    "name": "Stock_001235",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001236",
+    "name": "Stock_001236",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001237",
+    "name": "Stock_001237",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001238",
+    "name": "Stock_001238",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001239",
+    "name": "Stock_001239",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001240",
+    "name": "Stock_001240",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001241",
+    "name": "Stock_001241",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001242",
+    "name": "Stock_001242",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001243",
+    "name": "Stock_001243",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001244",
+    "name": "Stock_001244",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001245",
+    "name": "Stock_001245",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001246",
+    "name": "Stock_001246",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001247",
+    "name": "Stock_001247",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001248",
+    "name": "Stock_001248",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001249",
+    "name": "Stock_001249",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001250",
+    "name": "Stock_001250",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001251",
+    "name": "Stock_001251",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001252",
+    "name": "Stock_001252",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001253",
+    "name": "Stock_001253",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001254",
+    "name": "Stock_001254",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001255",
+    "name": "Stock_001255",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001256",
+    "name": "Stock_001256",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001258",
+    "name": "Stock_001258",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001259",
+    "name": "Stock_001259",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001260",
+    "name": "Stock_001260",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001261",
+    "name": "Stock_001261",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001262",
+    "name": "Stock_001262",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001263",
+    "name": "Stock_001263",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001264",
+    "name": "Stock_001264",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001265",
+    "name": "Stock_001265",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001266",
+    "name": "Stock_001266",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001267",
+    "name": "Stock_001267",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001268",
+    "name": "Stock_001268",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001269",
+    "name": "Stock_001269",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001270",
+    "name": "Stock_001270",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001271",
+    "name": "Stock_001271",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001272",
+    "name": "Stock_001272",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001273",
+    "name": "Stock_001273",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001274",
+    "name": "Stock_001274",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001275",
+    "name": "Stock_001275",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001276",
+    "name": "Stock_001276",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001277",
+    "name": "Stock_001277",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001278",
+    "name": "Stock_001278",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001279",
+    "name": "Stock_001279",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001280",
+    "name": "Stock_001280",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001281",
+    "name": "Stock_001281",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001282",
+    "name": "Stock_001282",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001283",
+    "name": "Stock_001283",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001284",
+    "name": "Stock_001284",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001285",
+    "name": "Stock_001285",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001286",
+    "name": "Stock_001286",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001287",
+    "name": "Stock_001287",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001288",
+    "name": "Stock_001288",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001289",
+    "name": "Stock_001289",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001290",
+    "name": "Stock_001290",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001291",
+    "name": "Stock_001291",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001292",
+    "name": "Stock_001292",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001293",
+    "name": "Stock_001293",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001294",
+    "name": "Stock_001294",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001295",
+    "name": "Stock_001295",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001296",
+    "name": "Stock_001296",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001297",
+    "name": "Stock_001297",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001298",
+    "name": "Stock_001298",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001299",
+    "name": "Stock_001299",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001300",
+    "name": "Stock_001300",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001301",
+    "name": "Stock_001301",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001302",
+    "name": "Stock_001302",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001303",
+    "name": "Stock_001303",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001304",
+    "name": "Stock_001304",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001305",
+    "name": "Stock_001305",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001306",
+    "name": "Stock_001306",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001307",
+    "name": "Stock_001307",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001308",
+    "name": "Stock_001308",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001309",
+    "name": "Stock_001309",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001310",
+    "name": "Stock_001310",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001311",
+    "name": "Stock_001311",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001312",
+    "name": "Stock_001312",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001313",
+    "name": "Stock_001313",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001314",
+    "name": "Stock_001314",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001315",
+    "name": "Stock_001315",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001316",
+    "name": "Stock_001316",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001317",
+    "name": "Stock_001317",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001318",
+    "name": "Stock_001318",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001319",
+    "name": "Stock_001319",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001320",
+    "name": "Stock_001320",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001321",
+    "name": "Stock_001321",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001322",
+    "name": "Stock_001322",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001323",
+    "name": "Stock_001323",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001324",
+    "name": "Stock_001324",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001325",
+    "name": "Stock_001325",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001326",
+    "name": "Stock_001326",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001327",
+    "name": "Stock_001327",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001328",
+    "name": "Stock_001328",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001329",
+    "name": "Stock_001329",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001330",
+    "name": "Stock_001330",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001331",
+    "name": "Stock_001331",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001332",
+    "name": "Stock_001332",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001333",
+    "name": "Stock_001333",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001334",
+    "name": "Stock_001334",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001335",
+    "name": "Stock_001335",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001336",
+    "name": "Stock_001336",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001337",
+    "name": "Stock_001337",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001338",
+    "name": "Stock_001338",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001339",
+    "name": "Stock_001339",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001340",
+    "name": "Stock_001340",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001341",
+    "name": "Stock_001341",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001342",
+    "name": "Stock_001342",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001343",
+    "name": "Stock_001343",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001344",
+    "name": "Stock_001344",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001345",
+    "name": "Stock_001345",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001346",
+    "name": "Stock_001346",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001347",
+    "name": "Stock_001347",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001348",
+    "name": "Stock_001348",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001349",
+    "name": "Stock_001349",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001350",
+    "name": "Stock_001350",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001351",
+    "name": "Stock_001351",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001352",
+    "name": "Stock_001352",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001353",
+    "name": "Stock_001353",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001354",
+    "name": "Stock_001354",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001355",
+    "name": "Stock_001355",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001356",
+    "name": "Stock_001356",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001357",
+    "name": "Stock_001357",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001358",
+    "name": "Stock_001358",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001359",
+    "name": "Stock_001359",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001360",
+    "name": "Stock_001360",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001361",
+    "name": "Stock_001361",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001362",
+    "name": "Stock_001362",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001363",
+    "name": "Stock_001363",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001364",
+    "name": "Stock_001364",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001365",
+    "name": "Stock_001365",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001366",
+    "name": "Stock_001366",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001367",
+    "name": "Stock_001367",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001368",
+    "name": "Stock_001368",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001369",
+    "name": "Stock_001369",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001370",
+    "name": "Stock_001370",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001371",
+    "name": "Stock_001371",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001372",
+    "name": "Stock_001372",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001373",
+    "name": "Stock_001373",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001374",
+    "name": "Stock_001374",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001375",
+    "name": "Stock_001375",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001376",
+    "name": "Stock_001376",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001377",
+    "name": "Stock_001377",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001378",
+    "name": "Stock_001378",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001379",
+    "name": "Stock_001379",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001380",
+    "name": "Stock_001380",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001381",
+    "name": "Stock_001381",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001382",
+    "name": "Stock_001382",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001383",
+    "name": "Stock_001383",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001384",
+    "name": "Stock_001384",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001385",
+    "name": "Stock_001385",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001386",
+    "name": "Stock_001386",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001387",
+    "name": "Stock_001387",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001388",
+    "name": "Stock_001388",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001389",
+    "name": "Stock_001389",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001390",
+    "name": "Stock_001390",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001391",
+    "name": "Stock_001391",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001392",
+    "name": "Stock_001392",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001393",
+    "name": "Stock_001393",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001394",
+    "name": "Stock_001394",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001395",
+    "name": "Stock_001395",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001396",
+    "name": "Stock_001396",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001397",
+    "name": "Stock_001397",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001398",
+    "name": "Stock_001398",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001399",
+    "name": "Stock_001399",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001400",
+    "name": "Stock_001400",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001401",
+    "name": "Stock_001401",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001402",
+    "name": "Stock_001402",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001403",
+    "name": "Stock_001403",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001404",
+    "name": "Stock_001404",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001405",
+    "name": "Stock_001405",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001406",
+    "name": "Stock_001406",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001407",
+    "name": "Stock_001407",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001408",
+    "name": "Stock_001408",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001409",
+    "name": "Stock_001409",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001410",
+    "name": "Stock_001410",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001411",
+    "name": "Stock_001411",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001412",
+    "name": "Stock_001412",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001413",
+    "name": "Stock_001413",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001414",
+    "name": "Stock_001414",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001415",
+    "name": "Stock_001415",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001416",
+    "name": "Stock_001416",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001417",
+    "name": "Stock_001417",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001418",
+    "name": "Stock_001418",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001419",
+    "name": "Stock_001419",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001420",
+    "name": "Stock_001420",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001421",
+    "name": "Stock_001421",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001422",
+    "name": "Stock_001422",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001423",
+    "name": "Stock_001423",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001424",
+    "name": "Stock_001424",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001425",
+    "name": "Stock_001425",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001426",
+    "name": "Stock_001426",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001427",
+    "name": "Stock_001427",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001428",
+    "name": "Stock_001428",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001429",
+    "name": "Stock_001429",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001430",
+    "name": "Stock_001430",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001431",
+    "name": "Stock_001431",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001432",
+    "name": "Stock_001432",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001433",
+    "name": "Stock_001433",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001434",
+    "name": "Stock_001434",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001435",
+    "name": "Stock_001435",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001436",
+    "name": "Stock_001436",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001437",
+    "name": "Stock_001437",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001438",
+    "name": "Stock_001438",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001439",
+    "name": "Stock_001439",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001440",
+    "name": "Stock_001440",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001441",
+    "name": "Stock_001441",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001442",
+    "name": "Stock_001442",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001443",
+    "name": "Stock_001443",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001444",
+    "name": "Stock_001444",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001445",
+    "name": "Stock_001445",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001446",
+    "name": "Stock_001446",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001447",
+    "name": "Stock_001447",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001448",
+    "name": "Stock_001448",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001449",
+    "name": "Stock_001449",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001450",
+    "name": "Stock_001450",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001451",
+    "name": "Stock_001451",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001452",
+    "name": "Stock_001452",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001453",
+    "name": "Stock_001453",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001454",
+    "name": "Stock_001454",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001455",
+    "name": "Stock_001455",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001456",
+    "name": "Stock_001456",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001457",
+    "name": "Stock_001457",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001458",
+    "name": "Stock_001458",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001459",
+    "name": "Stock_001459",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001460",
+    "name": "Stock_001460",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001461",
+    "name": "Stock_001461",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001462",
+    "name": "Stock_001462",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001463",
+    "name": "Stock_001463",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001464",
+    "name": "Stock_001464",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001465",
+    "name": "Stock_001465",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001466",
+    "name": "Stock_001466",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001467",
+    "name": "Stock_001467",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001468",
+    "name": "Stock_001468",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001469",
+    "name": "Stock_001469",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001470",
+    "name": "Stock_001470",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001471",
+    "name": "Stock_001471",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001472",
+    "name": "Stock_001472",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001473",
+    "name": "Stock_001473",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001474",
+    "name": "Stock_001474",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001475",
+    "name": "Stock_001475",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001476",
+    "name": "Stock_001476",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001477",
+    "name": "Stock_001477",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001478",
+    "name": "Stock_001478",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001479",
+    "name": "Stock_001479",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001480",
+    "name": "Stock_001480",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001481",
+    "name": "Stock_001481",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001482",
+    "name": "Stock_001482",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001483",
+    "name": "Stock_001483",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001484",
+    "name": "Stock_001484",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001485",
+    "name": "Stock_001485",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001486",
+    "name": "Stock_001486",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001487",
+    "name": "Stock_001487",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001488",
+    "name": "Stock_001488",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001489",
+    "name": "Stock_001489",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001490",
+    "name": "Stock_001490",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001491",
+    "name": "Stock_001491",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001492",
+    "name": "Stock_001492",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001493",
+    "name": "Stock_001493",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001494",
+    "name": "Stock_001494",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001495",
+    "name": "Stock_001495",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001496",
+    "name": "Stock_001496",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001497",
+    "name": "Stock_001497",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001498",
+    "name": "Stock_001498",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001499",
+    "name": "Stock_001499",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001500",
+    "name": "Stock_001500",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001501",
+    "name": "Stock_001501",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001502",
+    "name": "Stock_001502",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001503",
+    "name": "Stock_001503",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001504",
+    "name": "Stock_001504",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001505",
+    "name": "Stock_001505",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001506",
+    "name": "Stock_001506",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "001507",
+    "name": "Stock_001507",
+    "board": "主板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002001",
+    "name": "Stock_002001",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002002",
+    "name": "Stock_002002",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002003",
+    "name": "Stock_002003",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002004",
+    "name": "Stock_002004",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002005",
+    "name": "Stock_002005",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002006",
+    "name": "Stock_002006",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002007",
+    "name": "Stock_002007",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002008",
+    "name": "Stock_002008",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002009",
+    "name": "Stock_002009",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002010",
+    "name": "Stock_002010",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002011",
+    "name": "Stock_002011",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002012",
+    "name": "Stock_002012",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002013",
+    "name": "Stock_002013",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002014",
+    "name": "Stock_002014",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002015",
+    "name": "Stock_002015",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002016",
+    "name": "Stock_002016",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002017",
+    "name": "Stock_002017",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002018",
+    "name": "Stock_002018",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002019",
+    "name": "Stock_002019",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002020",
+    "name": "Stock_002020",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002021",
+    "name": "Stock_002021",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002022",
+    "name": "Stock_002022",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002023",
+    "name": "Stock_002023",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002024",
+    "name": "Stock_002024",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002025",
+    "name": "Stock_002025",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002026",
+    "name": "Stock_002026",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002027",
+    "name": "Stock_002027",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002028",
+    "name": "Stock_002028",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002029",
+    "name": "Stock_002029",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002030",
+    "name": "Stock_002030",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002031",
+    "name": "Stock_002031",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002032",
+    "name": "Stock_002032",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002033",
+    "name": "Stock_002033",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002034",
+    "name": "Stock_002034",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002035",
+    "name": "Stock_002035",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002036",
+    "name": "Stock_002036",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002037",
+    "name": "Stock_002037",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002038",
+    "name": "Stock_002038",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002039",
+    "name": "Stock_002039",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002040",
+    "name": "Stock_002040",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002041",
+    "name": "Stock_002041",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002042",
+    "name": "Stock_002042",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002043",
+    "name": "Stock_002043",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002044",
+    "name": "Stock_002044",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002045",
+    "name": "Stock_002045",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002046",
+    "name": "Stock_002046",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002047",
+    "name": "Stock_002047",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002048",
+    "name": "Stock_002048",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002049",
+    "name": "Stock_002049",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002050",
+    "name": "Stock_002050",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002051",
+    "name": "Stock_002051",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002052",
+    "name": "Stock_002052",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002053",
+    "name": "Stock_002053",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002054",
+    "name": "Stock_002054",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002055",
+    "name": "Stock_002055",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002056",
+    "name": "Stock_002056",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002057",
+    "name": "Stock_002057",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002058",
+    "name": "Stock_002058",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002059",
+    "name": "Stock_002059",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002060",
+    "name": "Stock_002060",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002061",
+    "name": "Stock_002061",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002062",
+    "name": "Stock_002062",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002063",
+    "name": "Stock_002063",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002064",
+    "name": "Stock_002064",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002065",
+    "name": "Stock_002065",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002066",
+    "name": "Stock_002066",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002067",
+    "name": "Stock_002067",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002068",
+    "name": "Stock_002068",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002069",
+    "name": "Stock_002069",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002070",
+    "name": "Stock_002070",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002071",
+    "name": "Stock_002071",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002072",
+    "name": "Stock_002072",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002073",
+    "name": "Stock_002073",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002074",
+    "name": "Stock_002074",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002075",
+    "name": "Stock_002075",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002076",
+    "name": "Stock_002076",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002077",
+    "name": "Stock_002077",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002078",
+    "name": "Stock_002078",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002079",
+    "name": "Stock_002079",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002080",
+    "name": "Stock_002080",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002081",
+    "name": "Stock_002081",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002082",
+    "name": "Stock_002082",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002083",
+    "name": "Stock_002083",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002084",
+    "name": "Stock_002084",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002085",
+    "name": "Stock_002085",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002086",
+    "name": "Stock_002086",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002087",
+    "name": "Stock_002087",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002088",
+    "name": "Stock_002088",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002089",
+    "name": "Stock_002089",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002090",
+    "name": "Stock_002090",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002091",
+    "name": "Stock_002091",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002092",
+    "name": "Stock_002092",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002093",
+    "name": "Stock_002093",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002094",
+    "name": "Stock_002094",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002095",
+    "name": "Stock_002095",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002096",
+    "name": "Stock_002096",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002097",
+    "name": "Stock_002097",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002098",
+    "name": "Stock_002098",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002099",
+    "name": "Stock_002099",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002100",
+    "name": "Stock_002100",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002101",
+    "name": "Stock_002101",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002102",
+    "name": "Stock_002102",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002103",
+    "name": "Stock_002103",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002104",
+    "name": "Stock_002104",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002105",
+    "name": "Stock_002105",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002106",
+    "name": "Stock_002106",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002107",
+    "name": "Stock_002107",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002108",
+    "name": "Stock_002108",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002109",
+    "name": "Stock_002109",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002110",
+    "name": "Stock_002110",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002111",
+    "name": "Stock_002111",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002112",
+    "name": "Stock_002112",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002113",
+    "name": "Stock_002113",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002114",
+    "name": "Stock_002114",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002115",
+    "name": "Stock_002115",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002116",
+    "name": "Stock_002116",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002117",
+    "name": "Stock_002117",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002118",
+    "name": "Stock_002118",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002119",
+    "name": "Stock_002119",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002120",
+    "name": "Stock_002120",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002121",
+    "name": "Stock_002121",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002122",
+    "name": "Stock_002122",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002123",
+    "name": "Stock_002123",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002124",
+    "name": "Stock_002124",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002125",
+    "name": "Stock_002125",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002126",
+    "name": "Stock_002126",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002127",
+    "name": "Stock_002127",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002128",
+    "name": "Stock_002128",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002129",
+    "name": "Stock_002129",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002130",
+    "name": "Stock_002130",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002131",
+    "name": "Stock_002131",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002132",
+    "name": "Stock_002132",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002133",
+    "name": "Stock_002133",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002134",
+    "name": "Stock_002134",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002135",
+    "name": "Stock_002135",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002136",
+    "name": "Stock_002136",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002137",
+    "name": "Stock_002137",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002138",
+    "name": "Stock_002138",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002139",
+    "name": "Stock_002139",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002140",
+    "name": "Stock_002140",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002141",
+    "name": "Stock_002141",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002142",
+    "name": "Stock_002142",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002143",
+    "name": "Stock_002143",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002144",
+    "name": "Stock_002144",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002145",
+    "name": "Stock_002145",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002146",
+    "name": "Stock_002146",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002147",
+    "name": "Stock_002147",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002148",
+    "name": "Stock_002148",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002149",
+    "name": "Stock_002149",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "002150",
+    "name": "Stock_002150",
+    "board": "中小板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300001",
+    "name": "Stock_300001",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300002",
+    "name": "Stock_300002",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300003",
+    "name": "Stock_300003",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300004",
+    "name": "Stock_300004",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300005",
+    "name": "Stock_300005",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300006",
+    "name": "Stock_300006",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300007",
+    "name": "Stock_300007",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300008",
+    "name": "Stock_300008",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300009",
+    "name": "Stock_300009",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300010",
+    "name": "Stock_300010",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300011",
+    "name": "Stock_300011",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300012",
+    "name": "Stock_300012",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300013",
+    "name": "Stock_300013",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300014",
+    "name": "Stock_300014",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300015",
+    "name": "Stock_300015",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300016",
+    "name": "Stock_300016",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300017",
+    "name": "Stock_300017",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300018",
+    "name": "Stock_300018",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300019",
+    "name": "Stock_300019",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300020",
+    "name": "Stock_300020",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300021",
+    "name": "Stock_300021",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300022",
+    "name": "Stock_300022",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300023",
+    "name": "Stock_300023",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300024",
+    "name": "Stock_300024",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300025",
+    "name": "Stock_300025",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300026",
+    "name": "Stock_300026",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300027",
+    "name": "Stock_300027",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300028",
+    "name": "Stock_300028",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300029",
+    "name": "Stock_300029",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300030",
+    "name": "Stock_300030",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300031",
+    "name": "Stock_300031",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300032",
+    "name": "Stock_300032",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300033",
+    "name": "Stock_300033",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300034",
+    "name": "Stock_300034",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300035",
+    "name": "Stock_300035",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300036",
+    "name": "Stock_300036",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300037",
+    "name": "Stock_300037",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300038",
+    "name": "Stock_300038",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300039",
+    "name": "Stock_300039",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300040",
+    "name": "Stock_300040",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300041",
+    "name": "Stock_300041",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300042",
+    "name": "Stock_300042",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300043",
+    "name": "Stock_300043",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300044",
+    "name": "Stock_300044",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300045",
+    "name": "Stock_300045",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300046",
+    "name": "Stock_300046",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300047",
+    "name": "Stock_300047",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300048",
+    "name": "Stock_300048",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300049",
+    "name": "Stock_300049",
+    "board": "创业板",
+    "sector": "待分类"
+  },
+  {
+    "symbol": "300050",
+    "name": "Stock_300050",
+    "board": "创业板",
+    "sector": "待分类"
+  }
+]
